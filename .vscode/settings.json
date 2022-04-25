@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c14069d3-680f-4bc3-8574-878a6257a6d7/resourceGroups/PoC-RG-Spoke_2Dev/providers/Microsoft.Web/sites/mysecdealapp-dr",
+    "appService.deploySubpath": "."
+}
